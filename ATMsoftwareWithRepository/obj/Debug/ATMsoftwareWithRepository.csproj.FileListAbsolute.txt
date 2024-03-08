@@ -1,0 +1,15 @@
+D:\C#_Course\C_progrm_module\ATMsoftwareWithRepository\ATMsoftwareWithRepository\bin\Debug\ATMsoftwareWithRepository.exe.config
+D:\C#_Course\C_progrm_module\ATMsoftwareWithRepository\ATMsoftwareWithRepository\bin\Debug\ATMsoftwareWithRepository.exe
+D:\C#_Course\C_progrm_module\ATMsoftwareWithRepository\ATMsoftwareWithRepository\bin\Debug\ATMsoftwareWithRepository.pdb
+D:\C#_Course\C_progrm_module\ATMsoftwareWithRepository\ATMsoftwareWithRepository\obj\Debug\ATMsoftwareWithRepository.csproj.AssemblyReference.cache
+D:\C#_Course\C_progrm_module\ATMsoftwareWithRepository\ATMsoftwareWithRepository\obj\Debug\ATMsoftwareWithRepository.csproj.SuggestedBindingRedirects.cache
+D:\C#_Course\C_progrm_module\ATMsoftwareWithRepository\ATMsoftwareWithRepository\obj\Debug\ATMsoftwareWithRepository.csproj.CoreCompileInputs.cache
+D:\C#_Course\C_progrm_module\ATMsoftwareWithRepository\ATMsoftwareWithRepository\obj\Debug\ATMsoftwareWithRepository.exe
+D:\C#_Course\C_progrm_module\ATMsoftwareWithRepository\ATMsoftwareWithRepository\obj\Debug\ATMsoftwareWithRepository.pdb
+D:\CSharp_Course\Module2(C_progrm_module)\ATMsoftwareWithRepository\ATMsoftwareWithRepository\bin\Debug\ATMsoftwareWithRepository.exe.config
+D:\CSharp_Course\Module2(C_progrm_module)\ATMsoftwareWithRepository\ATMsoftwareWithRepository\bin\Debug\ATMsoftwareWithRepository.exe
+D:\CSharp_Course\Module2(C_progrm_module)\ATMsoftwareWithRepository\ATMsoftwareWithRepository\bin\Debug\ATMsoftwareWithRepository.pdb
+D:\CSharp_Course\Module2(C_progrm_module)\ATMsoftwareWithRepository\ATMsoftwareWithRepository\obj\Debug\ATMsoftwareWithRepository.csproj.AssemblyReference.cache
+D:\CSharp_Course\Module2(C_progrm_module)\ATMsoftwareWithRepository\ATMsoftwareWithRepository\obj\Debug\ATMsoftwareWithRepository.csproj.CoreCompileInputs.cache
+D:\CSharp_Course\Module2(C_progrm_module)\ATMsoftwareWithRepository\ATMsoftwareWithRepository\obj\Debug\ATMsoftwareWithRepository.exe
+D:\CSharp_Course\Module2(C_progrm_module)\ATMsoftwareWithRepository\ATMsoftwareWithRepository\obj\Debug\ATMsoftwareWithRepository.pdb
